@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 24 14:40:58 EDT 2018
-slf4j-api-1.7.25.jar>central=
-slf4j-api-1.7.25.pom>central=
+#Fri May 25 08:51:00 EDT 2018
+slf4j-api-1.7.25.pom>spring-releases=
+slf4j-api-1.7.25.jar>spring-releases=

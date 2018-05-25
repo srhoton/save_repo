@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.codehaus.plexus</groupId>
@@ -44,8 +45,8 @@
     <developer>
       <id>kaz</id>
       <name>Pete Kazmier</name>
-      <email></email>
-      <organization></organization>
+      <email />
+      <organization />
       <roles>
         <role>Developer</role>
       </roles>
@@ -54,7 +55,7 @@
       <id>jtaylor</id>
       <name>James Taylor</name>
       <email>james@jamestaylor.org</email>
-      <organization></organization>
+      <organization />
       <roles>
         <role>Developer</role>
       </roles>
@@ -72,7 +73,7 @@
       <id>kasper</id>
       <name>Kasper Nielsen</name>
       <email>apache@kav.dk</email>
-      <organization></organization>
+      <organization />
       <roles>
         <role>Developer</role>
       </roles>
@@ -172,42 +173,8 @@
       </plugin>
     </plugins>
   </build>
-  <repositories>
-    <repository>
-      <releases>
-        <enabled>false</enabled>
-      </releases>
-      <id>snapshots</id>
-      <name>Maven Snapshot Development Repository</name>
-      <url>http://snapshots.maven.codehaus.org/maven2</url>
-    </repository>
-    <repository>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-      <id>central</id>
-      <name>Maven Repository Switchboard</name>
-      <url>http://repo1.maven.org/maven2</url>
-    </repository>
-  </repositories>
-  <pluginRepositories>
-    <pluginRepository>
-      <releases>
-        <enabled>false</enabled>
-      </releases>
-      <id>snapshots-plugins</id>
-      <name>Maven Snapshot Plugins Development Repository</name>
-      <url>http://snapshots.maven.codehaus.org/maven2</url>
-    </pluginRepository>
-    <pluginRepository>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-      <id>central</id>
-      <name>Maven Plugin Repository</name>
-      <url>http://repo1.maven.org/maven2</url>
-    </pluginRepository>
-  </pluginRepositories>
+  
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

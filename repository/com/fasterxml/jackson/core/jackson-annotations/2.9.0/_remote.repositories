@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 24 14:40:58 EDT 2018
-jackson-annotations-2.9.0.jar>central=
-jackson-annotations-2.9.0.pom>central=
+#Fri May 25 08:51:00 EDT 2018
+jackson-annotations-2.9.0.jar>spring-releases=
+jackson-annotations-2.9.0.pom>spring-releases=

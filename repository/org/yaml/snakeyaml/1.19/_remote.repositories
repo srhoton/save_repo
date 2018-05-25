@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 24 14:40:58 EDT 2018
-snakeyaml-1.19.jar>central=
-snakeyaml-1.19.pom>central=
+#Fri May 25 08:51:00 EDT 2018
+snakeyaml-1.19.pom>spring-releases=
+snakeyaml-1.19.jar>spring-releases=
