@@ -1,5 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue May 29 13:58:39 EDT 2018
-plexus-cipher-1.4.jar>spring-releases=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 15:31:34 EDT 2018
+plexus-cipher-1.4.jar>central=
 plexus-cipher-1.4.pom>central=
-plexus-cipher-1.4.pom>spring-releases=

@@ -1,4 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri May 25 08:51:00 EDT 2018
-junit-4.12.jar>spring-releases=
-junit-4.12.pom>spring-releases=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 15:31:34 EDT 2018
+junit-4.12.jar>central=
+junit-4.12.pom>central=

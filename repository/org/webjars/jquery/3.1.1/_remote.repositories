@@ -1,4 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue May 29 13:58:34 EDT 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 15:31:22 EDT 2018
 jquery-3.1.1.jar>central=
 jquery-3.1.1.pom>central=

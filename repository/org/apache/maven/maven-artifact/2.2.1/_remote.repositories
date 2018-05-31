@@ -1,5 +1,3 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue May 29 13:58:39 EDT 2018
-maven-artifact-2.2.1.jar>spring-releases=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 15:31:27 EDT 2018
 maven-artifact-2.2.1.pom>central=
-maven-artifact-2.2.1.pom>spring-releases=

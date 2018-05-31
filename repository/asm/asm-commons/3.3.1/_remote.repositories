@@ -1,4 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri May 25 08:51:18 EDT 2018
-asm-commons-3.3.1.jar>spring-releases=
-asm-commons-3.3.1.pom>spring-releases=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 15:31:34 EDT 2018
+asm-commons-3.3.1.jar>central=
+asm-commons-3.3.1.pom>central=
